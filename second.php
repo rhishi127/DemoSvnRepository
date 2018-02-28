@@ -1,3 +1,3 @@
 <?php
- echo "second php file";
+    echo "second php file";
 ?>
